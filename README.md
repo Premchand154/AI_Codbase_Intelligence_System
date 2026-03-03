@@ -1,9 +1,8 @@
-```markdown
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-```
 
 # AI Codebase Intelligence System
 
